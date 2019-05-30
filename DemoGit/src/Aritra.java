@@ -1,6 +1,7 @@
 
 public class Aritra {
 	
-	//hello Aritra...
+	private int managerId;
+	private String mName;
 
 }
